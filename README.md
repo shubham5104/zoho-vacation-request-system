@@ -22,9 +22,9 @@ A low-code application built using Zoho Creator to manage employee vacation requ
 ![Employee Data Screenshot](screenshots/Employee_Data.png)
 
 ## 📷 Screenshots Of Desktop App
-![Sidebar Screenshot](screenshots/Sidebar.png)
-![Mobile Dashboard Report](screenshots/Mobile_Dashboard_1.png)
-![Mobile Dashboard Report](screenshots/Mobile_Dashboard_2.png)
+![Sidebar Screenshot](screenshots/Sidebar.jpeg)
+![Mobile Dashboard Report](screenshots/Mobile_Dashboard_1.jpeg)
+![Mobile Dashboard Report](screenshots/Mobile_Dashboard_2.jpeg)
 ![Mobile Calendar Screenshot](screenshots/Mobile_Calendar.png)
 ![Mobile Vacation RequestForm Screenshot](screenshots/Vacation_Request_Form.png)
 ![Mobile All Requests Screenshot](screenshots/Mobile_All_Requests.png)
