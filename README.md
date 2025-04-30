@@ -33,7 +33,7 @@ A low-code application built using Zoho Creator to manage employee vacation requ
 <img src="screenshots/Mobile_Dashboard_2.jpeg" alt="Mobile Dashboard Report" width="300"/>
 
 <h4>🗓️ Mobile Calendar</h4>
-<img src="screenshots/Mobile_Calendar.png" alt="Mobile Calendar Screenshot" width="300"/>
+<img src="screenshots/Mobile_Calendar.jpeg" alt="Mobile Calendar Screenshot" width="300"/>
 
 <h4>📝 Vacation Request Form</h4>
 <img src="screenshots/Vacation_Request_Form.jpeg" alt="Vacation Request Form Screenshot" width="300"/>
