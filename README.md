@@ -14,8 +14,13 @@ A low-code application built using Zoho Creator to manage employee vacation requ
 - Deluge Script (Zoho’s scripting language)
 
 ## 📷 Screenshots
-![Form Screenshot](screenshots/request_form.png)
-![Admin Report](screenshots/admin_report.png)
+![Admin Report](screenshots/Dashboard.png)
+![Calendar Screenshot](screenshots/Calendar.png)
+![Form Screenshot](screenshots/Request_Form.png)
+![All Requests Screenshot](screenshots/All_Requests.png)
+![Employee Form Screenshot](screenshots/Employee_form.png)
+![Employee Data Screenshot](screenshots/Employee_Data.png)
+
 
 ## 📁 Files
 - Form Designs
