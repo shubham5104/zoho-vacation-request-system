@@ -23,29 +23,23 @@ A low-code application built using Zoho Creator to manage employee vacation requ
 
 <h2>📷 Screenshots Of Mobile App</h2>
 
-<h4>📂 Sidebar</h4>
-<img src="screenshots/Sidebar.jpeg" alt="Sidebar Screenshot" width="300"/>
+<p align="center">
+  <img src="screenshots/Sidebar.jpeg" alt="Sidebar Screenshot" width="200"/>
+  <img src="screenshots/Mobile_Dashboard_1.jpeg" alt="Mobile Dashboard 1" width="200"/>
+  <img src="screenshots/Mobile_Dashboard_2.jpeg" alt="Mobile Dashboard 2" width="200"/>
+</p>
 
-<h4>📊 Mobile Dashboard Report (1)</h4>
-<img src="screenshots/Mobile_Dashboard_1.jpeg" alt="Mobile Dashboard Report" width="300"/>
+<p align="center">
+  <img src="screenshots/Mobile_Calendar.jpeg" alt="Calendar Screenshot" width="200"/>
+  <img src="screenshots/Vacation_Request_Form.jpeg" alt="Vacation Request Form" width="200"/>
+  <img src="screenshots/Mobile_All_Requests.jpeg" alt="All Requests Screenshot" width="200"/>
+</p>
 
-<h4>📊 Mobile Dashboard Report (2)</h4>
-<img src="screenshots/Mobile_Dashboard_2.jpeg" alt="Mobile Dashboard Report" width="300"/>
+<p align="center">
+  <img src="screenshots/Mobile_Employee_form.jpeg" alt="Employee Form Screenshot" width="200"/>
+  <img src="screenshots/Mobile_Employee_Data.jpeg" alt="Employee Data Screenshot" width="200"/>
+</p>
 
-<h4>🗓️ Mobile Calendar</h4>
-<img src="screenshots/Mobile_Calendar.jpeg" alt="Mobile Calendar Screenshot" width="300"/>
-
-<h4>📝 Vacation Request Form</h4>
-<img src="screenshots/Vacation_Request_Form.jpeg" alt="Vacation Request Form Screenshot" width="300"/>
-
-<h4>📄 All Requests</h4>
-<img src="screenshots/Mobile_All_Requests.jpeg" alt="All Requests Screenshot" width="300"/>
-
-<h4>👤 Employee Form</h4>
-<img src="screenshots/Mobile_Employee_form.jpeg" alt="Employee Form Screenshot" width="300"/>
-
-<h4>📁 Employee Data</h4>
-<img src="screenshots/Mobile_Employee_Data.jpeg" alt="Employee Data Screenshot" width="300"/>
 
 
 
