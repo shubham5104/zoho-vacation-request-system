@@ -45,5 +45,4 @@ A low-code application built using Zoho Creator to manage employee vacation requ
 
 ## 📁 Files
 - Form Designs
-- Workflow Scripts
 - Sample Data
